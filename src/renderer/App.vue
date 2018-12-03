@@ -6,8 +6,8 @@
 
 <script>
   export default {
-    name: 'vue-electron-sample'
-  }
+    name: 'vue-electron-sample',
+  };
 </script>
 
 <style>
