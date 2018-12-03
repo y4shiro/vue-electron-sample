@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>MainPage です</div>
+    <h1>MainPage です</h1>
   </div>
 </template>
 
