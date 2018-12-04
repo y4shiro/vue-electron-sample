@@ -1,9 +1,9 @@
-# vue-electron-sample
+# vue-electron-sample  
 
-Vue CLI と electron-vue を使用してプロジェクトを立ち上げた際のサンプルです。
-詳細は [Qiita]() の記事を参照。
+Vue CLI と electron-vue を使用してプロジェクトを立ち上げた際のサンプルです。  
+詳細は [Qiita]() の記事を参照。  
 
-#### Build Setup
+#### Build Setup  
 
 ``` bash
 # install dependencies
