@@ -1,7 +1,7 @@
 # vue-electron-sample  
 
 Vue CLI と electron-vue を使用してプロジェクトを立ち上げた際のサンプルです。  
-詳細は [Qiita]() の記事を参照。  
+詳細は [Qiita](https://qiita.com/y4shiro/items/d6813d6d6b1e6c9e158d) の記事を参照。  
 
 #### Build Setup  
 
